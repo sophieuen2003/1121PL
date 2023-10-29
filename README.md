@@ -9,6 +9,8 @@
 ## 作業連結區
   9/21 - HW1 : [HW1](https://github.com/sophieuen2003/1121PL/blob/main/HW1/HW1.ipynb)
 
+  10/5 - HW2 : [HW2](https://github.com/sophieuen2003/1121PL/blob/main/HW2/HW2.ipynb)
+
   9/14 - practice1 : [practice1](https://github.com/sophieuen2003/1121PL/blob/main/practice1/set_practice.ipynb)
   
   9/28 - practice2 : [practice2](https://github.com/sophieuen2003/1121PL/blob/main/practice2/practice2.ipynb)
