@@ -11,6 +11,8 @@
 
   10/5 - HW2 : [HW2](https://github.com/sophieuen2003/1121PL/blob/main/HW2/HW2.ipynb)
 
+  10/19 - HW3 : [HW3](https://github.com/sophieuen2003/1121PL/blob/main/HW3/HW3.ipynb)
+
   9/14 - practice1 : [practice1](https://github.com/sophieuen2003/1121PL/blob/main/practice1/set_practice.ipynb)
   
   9/28 - practice2 : [practice2](https://github.com/sophieuen2003/1121PL/blob/main/practice2/practice2.ipynb)
