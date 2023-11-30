@@ -45,7 +45,7 @@ url_h = 'https://news.cnyes.com/news/'
 # https://news.cnyes.com/news/id/5377884?exp=a
 
 # 抓100次
-for i in range(3):
+for i in range(100):
 
     url_init = 'id/'+str(id)+'?exp=a'
     url = url_h + url_init
@@ -54,8 +54,8 @@ for i in range(3):
     sp = BeautifulSoup(html.text, 'html.parser')
 
     # 找class='_2E8y'的文章
-    # article_idv=sp.select('._2E8y')[0]
-    article_idv=sp.select('.')[0]
+    article_idv=sp.select('._2E8y')[0]
+    # article_idv=sp.select('.')[0]
     # print('--------------------------------')
     # print(article_idv)
     # print('--------------------------------')
